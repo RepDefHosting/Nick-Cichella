@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Chandler Villacruz
-jobTitle: Senior Marketing Executive
-location: San Francisco, California, USA
+name: Nick Cichella
+jobTitle: Food Safety Professional
+location: Round Rock, TX
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Chandler Villacruz
-siteUrl: https://mpdsbuild.netlify.app/
+  src: /img/nick-cichella-was-an-operations-manager-at-lsg-sky-chefs-in-caracas.-at-lsg-sky-chef.jpeg
+  alt: Nick Cichella
+siteUrl: https://www.nickcichella.com/
 socialLinks:
   twitter:
     url: https://www.x.com
     label: Visit
-    show: true
+    show: false
   facebook:
-    url: https://www.facebook.com
+    url: https://www.facebook.com/nick.cichella.1?mibextid=2JQ9oc
     label: Visit
     show: true
   linkedin:
-    url: https://www.linkedin.com
+    url: https://linkedin.com/in/nickcichella
     label: Visit
     show: true
   pinterest:

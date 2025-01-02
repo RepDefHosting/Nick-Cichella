@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/nick-cichella-is-a-graduate-of-preston-university-.jpeg
+  src: /img/561912d0-aa8d-4ec6-8976-6236584297e1.jpg
   alt: "Nick Cichella "
   caption: null
 header: Chandler Villacruz

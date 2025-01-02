@@ -62,8 +62,6 @@ discoverConnectExplore: Online
 longBiography_MD: |
   {{long_biography}}
 ---
-![Nick Cichella - Food Safety Professional](/img/nick-cichella-was-an-operations-manager-at-lsg-sky-chefs-in-caracas.-at-lsg-sky-chef.jpeg "Nick Cichella - Food Safety Professional")
-
 Nick Cichella is a graduate of Preston University, where he studied professional corporate management specialization. Between 1998 and 2007, Nick Cichella was an operations manager at LSG Sky Chefs in Caracas. At LSG Sky Chef, Caracas, he led quality assessments performed by airlines, local authorities, and LSG Hygiene Institute.
 
 Subsequently, in 2007, he founded Logistica Y Distribucion Latinoamericana, where he developed a new line of products in cooperation with local and international suppliers to meet inflight catering standards. He also introduced HACCP principles and US Food Safety regulations on domestic airlines.

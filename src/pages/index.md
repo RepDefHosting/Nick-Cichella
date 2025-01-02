@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Chandler Villacruz, Senior Marketing Executive
+pageTitle: Nick Cichella - Food Safety Professional
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,18 +12,22 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/pic-executive-main-banner-01.webp
-  alt: Chandler Villacruz
+  src: /img/nick-cichella-is-a-graduate-of-preston-university-.jpeg
+  alt: "Nick Cichella "
   caption: null
 header: Chandler Villacruz
-metaDescription: Personal website of Chandler Villacruz, Senior Marketing Executive.
+metaDescription: Nick Cichella is a graduate of Preston University, where he
+  studied professional corporate management specialization. Between 1998 and
+  2007, Nick Cichella was an operations manager at LSG Sky Chefs in Caracas. At
+  LSG Sky Chef, Caracas, he led quality assessments performed by airlines, local
+  authorities, and LSG Hygiene Institute.
 published: true
 profileButton:
   link: /profile
-  label: View Profile
+  label: Read More
 blogButton:
   link: /blog
-  label: Visit My Blog
+  label: Latest Blog Post
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
@@ -31,4 +35,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-Since joining the web-based **restaurant review** **company** in its startup phase, **Chandler Villacruz** has spearheaded *market research* activities that have allowed the firm to build *effective advertising* campaigns and achieve sound **[business growth](<>)**.
+**[Nick Cichella](https://www.crunchbase.com/person/nick-cichella-e01c)** is a graduate of Preston University, where he studied professional corporate management specialization. Between 1998 and 2007, Nick Cichella was an operations manager at LSG Sky Chefs in Caracas. At LSG Sky Chef, Caracas, he led quality assessments performed by airlines, local authorities, and **[LSG Hygiene Institute.](https://www.linkedin.com/in/nickcichella)**

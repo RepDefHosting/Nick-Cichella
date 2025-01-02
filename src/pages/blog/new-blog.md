@@ -16,7 +16,7 @@ teaser: Ensuring food safety at 30,000 feet is a complex and vital airline task.
 featuredImage:
   src: /img/pexels-olena-buzina-360416792-14379106.jpg
 profileButton:
-  label: About
+  label: About Page
   link: /profile
 blogButton:
   label: View all posts

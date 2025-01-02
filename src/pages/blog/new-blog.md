@@ -10,7 +10,9 @@ metaDescription: Ensuring food safety at 30,000 feet is a complex and vital
   serve each meal safely.
 published: true
 date: 2024-12-29T19:59:45.175Z
-teaser: New test blog without featured image, lets try to post...
+teaser: Ensuring food safety at 30,000 feet is a complex and vital airline task.
+  Flying encounters challenges like high altitudes, controlled cabin pressure,
+  and tiny spaces.
 featuredImage:
   src: /img/pexels-olena-buzina-360416792-14379106.jpg
 profileButton:

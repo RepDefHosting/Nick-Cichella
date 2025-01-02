@@ -3,7 +3,11 @@ templateKey: blog-archive
 pageSlug: /blog
 pageTitle: Blog
 subheader: null
-metaDescription: Blog Listing Page of Chandler Villacruz, Senior Marketing Manager
+metaDescription: Nick Cichella is a graduate of Preston University, where he
+  studied professional corporate management specialization. Between 1998 and
+  2007, Nick Cichella was an operations manager at LSG Sky Chefs in Caracas. At
+  LSG Sky Chef, Caracas, he led quality assessments performed by airlines, local
+  authorities, and LSG Hygiene Institute.
 published: true
 schemaType: WebPage
 header: Blog
@@ -13,5 +17,5 @@ featuredImage:
   caption: null
 profileButton:
   link: /profile
-  label: View Profile
+  label: Check out my bio
 ---

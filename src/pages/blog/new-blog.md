@@ -19,7 +19,7 @@ profileButton:
   label: About Page
   link: /profile
 blogButton:
-  label: View all posts
+  label: Blog
   link: /blog
 ---
 Ensuring food safety at 30,000 feet is a complex and vital airline task. Flying encounters challenges like high altitudes, controlled cabin pressure, and tiny spaces. Even the tiniest mistake can have severe implications in the high-pressure aircraft catering industry. Chefs, safety authorities, flight attendants, and regulators work together to prepare and serve each meal safely. 

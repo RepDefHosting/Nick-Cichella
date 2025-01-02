@@ -11,7 +11,7 @@ published: true
 schemaType: ProfilePage
 header: Nick Cichella
 featuredImage:
-  src: ""
+  src: /img/561912d0-aa8d-4ec6-8976-6236584297e1.jpg
   alt: Headshot of Chandler Villacruz
   caption: null
 connectWithMe: Connect with me

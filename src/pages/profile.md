@@ -12,7 +12,8 @@ schemaType: ProfilePage
 header: Nick Cichella
 featuredImage:
   src: /img/561912d0-aa8d-4ec6-8976-6236584297e1.jpg
-  alt: Headshot of Chandler Villacruz
+  alt: Nick Cichella is a graduate of Preston University, where he studied
+    professional corporate management specialization.
   caption: null
 connectWithMe: Connect with me
 pageContent: >-
